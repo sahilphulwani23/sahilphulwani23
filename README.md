@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Frontend Web-Dev & Competitive Programming**
 
-- 📫 How to reach me **sahilphulwani.sp@gmail.com**
+- 📫 How to reach me : **sahilphulwani.sp@gmail.com**
 
 <hr>
 <h3 align="left">Visitor Count :</h3>
