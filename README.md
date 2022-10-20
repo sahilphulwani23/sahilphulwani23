@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/sahilphulwani23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilphulwani23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahilphulwani23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="sahilphulwani23" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilphulwani2324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilphulwani2324" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sahilph23" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="sahilph23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahilphulwani_sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahilphulwani_sp" height="30" width="40" /></a>
