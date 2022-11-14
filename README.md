@@ -4,9 +4,7 @@
   <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-- 🔭 I’m currently working on [Sociogram - Responsive UI of a Social Media Site](https://github.com/sahilphulwani23/Sociogram)
-
-- 🌱 I’m currently learning **Frontend Web-Dev**
+- 🌱 I’m currently learning **Full stack Web-Dev**
 
 - 💬 Ask me about **Frontend Web-Dev & Competitive Programming**
 
