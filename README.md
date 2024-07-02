@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋!, It's Sahil here</h1>
-<h3 align="center">I am a Web-Dev Enthusiast, Competitive Programmer and Sophomore at <br>Indian Institute of Information Technology Bhopal</h3>
+<h3 align="center">I'm a Web-Dev Enthusiast, an Intern at HackerRank & a Final year student at Indian Institute of Information Technology Bhopal</h3>
 <div align="center" >
   <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-- 🌱 I’m currently learning **Full stack Web-Dev**
+- 🌱 I’m currently gaining experience in **Full stack Web-Dev**
 
-- 💬 Ask me about **Frontend Web-Dev & Competitive Programming**
+- 💬 Ask me about: **Frontend Web-Dev & Automation Testing**
 
 - 📫 How to reach me : **sahilphulwani.sp@gmail.com**
 
@@ -22,9 +22,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/sahilphulwani23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="sahilphulwani23" height="30" width="30" /></a> 
-<a href="https://www.codechef.com/users/sahilph23" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="sahilph23" height="30" width="40" /></a>
-<a href="https://instagram.com/sahilphulwani23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="sahilphulwani2324" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/sahilphulwani_sp" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="sahilphulwani_sp" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,6 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" width="52" alt="cpp logo"  />
+  <img src="https://d33wubrfki0l68.cloudfront.net/45825999a370278a2d392daafce3e7a95de0fff2/3bada/img/logo/svg/full_colored_light.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="40" width="42" alt="jest logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Mocha_logo.svg" height="50" width="52" alt="mocha logo"  />
 </div>
 <br>
 
